@@ -1,0 +1,32 @@
+body{
+    background-color: #f36520;
+}
+header{
+    margin: 2vh auto;
+
+
+}
+header, nav, main, .row div{
+    background-color: white;
+    min-height: 10vh;
+    border: 5px solid gray;
+}
+nav, main{
+    min-height: 82vh;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+}
+h3{
+    display: flex;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dotted;
+}
+p{
+   font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
